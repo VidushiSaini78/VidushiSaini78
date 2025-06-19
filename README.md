@@ -1,78 +1,60 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<!--   <title>Vidushi Saini - GitHub Profile</title> -->
-</head>
-<body>
-  <h1 align="center">Hi 👋, I'm Vidushi Saini</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
 
-  <p>📚 Data Science Enthusiast | 🤖 AI/ML Explorer | 💡 Problem Solver</p>
-  <ul>
-    <li>Currently honing my skills in AI/ML through self-study and hands-on projects.</li>
-    <li>Driven by the thrill of turning raw data into actionable insights that drive real-world impact.</li>
-    <li>Proficient in Python, Scikit-learn, Pandas, Matplotlib, and always up for mastering new tools.</li>
-    <li>On the lookout for my first professional experience in data science through an internship.</li>
-    <li>Ready to bring my energy, creativity, and problem-solving skills to the table.</li>
-    <li>If you're looking for a dedicated and enthusiastic team player, let's connect!</li>
-    <li>Open to collaboration or internship opportunities where I can contribute and grow.</li>
-  </ul>
-  <p>Let's turn data into magic together!</p>
+<h1 align="center">🚀 Passionate about AI, Machine Learning & Innovation</h1>
 
-  <h3 align="left">Connect with me:</h3>
-  <p align="left">
-    <a href="mailto:vidushisaini78@gmail.com">Email</a><br>
-    <a href="https://www.linkedin.com/in/vidushi-saini-b0846b24b">LinkedIn</a>
-  </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76D6D&width=435&lines=Curious+Mind+%E2%9C%A8+Always+Learning;Tech+Enthusiast+%F0%9F%94%A5+Driven+by+Innovation;Let's+Connect+and+Create+Something+Awesome!+%F0%9F%92%AA" alt="Typing SVG" />
+</p>
 
-  <h3 align="left">Languages and Tools:</h3>
-  <p align="left"> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-    </a> 
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-    </a> 
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-    </a> 
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-    </a> 
-    <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/> 
-    </a> 
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://code.visualstudio.com/opengraphimg/opengraph-blog.png" alt="vscode" width="40" height="40"/> 
-    </a> 
-    <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="colab" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/> 
-    </a>
-  </p>
+---
 
-  <h3 align="left">Most Used Languages:</h3>
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vidushisa01&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" /></p>
-  
-  <h3 align="left">GitHub Stats:</h3>
-  <p><img src="https://github-readme-stats.vercel.app/api?username=vidushisa01&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+```python
+class Vidushi:
+    def __init__(self):
+        self.name = "Vidushi"
+        self.passions = [
+            "🤖 AI", 
+            "📊 Machine Learning", 
+            "💻 Technology"
+        ]
+        self.traits = [
+            "💡 Curious", 
+            "⚡ Energetic", 
+            "🎯 Innovative", 
+            "📚 Always Learning"
+        ]
+        self.status = "🚀 Ready to build and add value!"
 
-  <h3 align="left">Current Streak:</h3>
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=vidushisa01&" alt="GitHub Streak" /></p>
-</body>
-</html>
+    def say_hello(self):
+        print("👋 Hey there! I'm Vidushi.")
+        print("✨ An energetic soul driven by code, creativity, and caffeine!")
+        print("🔥 Passions:")
+        for passion in self.passions:
+            print(f"   • {passion}")
+        print("🧬 Traits:")
+        for trait in self.traits:
+            print(f"   • {trait}")
+        print(f"\n📣 Status: {self.status}")
+        print("\n💬 Let’s connect, collaborate, and create something amazing together!")
+
+if __name__ == "__main__":
+    me = Vidushi()
+    me.say_hello()
+```
+
+
+## 🧰 Tech Stack & Tools
+
+### 🧑‍💻 Languages
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+### 📚 Frameworks & Libraries
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-3D3D3D?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/CrewAI-5C2D91?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/n8n-ff6f00?style=for-the-badge&logo=n8n&logoColor=white"/>
+
+### 🧠 NLP & RAG
+<img src="https://img.shields.io/badge/NLP-%20Text%20Preprocessing%2C%20Sentiment%20Analysis%2C%20Emotion%20Detection-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/RAG-%20Retrieval--Augmented%20Generation-8A2BE2?style=for-the-badge"/>
+
+### 🛠️ Developer Tools
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/> ```
