@@ -5,7 +5,7 @@
 <h1 align="center">🚀 Passionate about AI, Machine Learning & Innovation</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76D6D&width=435&lines=Curious+Mind+%E2%9C%A8+Always+Learning;Tech+Enthusiast+%F0%9F%94%A5+Driven+by+Innovation;Let's+Connect+and+Create+Something+Awesome!+%F0%9F%92%AA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76D6D&width=435&lines=Curious+Mind+%E2%9C%A8+Always+Learning;Tech+Enthusiast+%F0%9F%94%A5+Driven+by+Goal;Let's+Connect+and+Create+Something!+%F0%9F%92%AA" alt="Typing SVG" />
 </p>
 
 ---
